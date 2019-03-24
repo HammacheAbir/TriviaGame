@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Triviaa</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="here_is_the_game">Here is the game</string>
+    <string name="aboutText">Abouut Me hihii</string>
+    <string name="rules_fragment">rulesFragment</string>
+    <string name="About">About</string>
+</resources>
